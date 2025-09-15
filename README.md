@@ -104,7 +104,7 @@ A production-minded, end-to-end pipeline to predict customer churn from user eve
 > Note: Dockerfile is included for Docker-capable hosts. On this VM (no WSL2), we run via Python venv (documented here).
 
 #### Screenshots
-![Swagger UI](screenshot/Swagger UI.png)
+![Swagger UI](https://github.com/ahmadsss94/churn-project/blob/main/screenshot/Swagger%20UI.PNG)
 ---
 
 ## 9) Monitoring & Drift
