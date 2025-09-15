@@ -153,7 +153,8 @@ Interpretation tips:
 - FN: missed churners → add recency/tenure window features or probability calibration.
 
 #### Screenshots
-![Error Analysis](screenshot/Erroranalysis.png)
+![Error Analysis](https://github.com/ahmadsss94/churn-project/blob/main/screenshot/Erroranalysis.PNG)
+
 
 
 ---
