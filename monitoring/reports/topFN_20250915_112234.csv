@@ -1,0 +1,3 @@
+event_count,n_sessions,n_songs,tenure_days,recency_days,page__Thumbs_Up,page__Thumbs_Down,page__Add_to_Playlist,page__Add_Friend,page__Roll_Advert,page__Help,page__Settings,page__Error,page__Downgrade,page__Upgrade,page__Logout,page__Home,page__NextSong,last_level,events_per_session,songs_per_session,y_true,proba,y_pred,error_type,margin_from_thr
+1498,36,1169,47.09540509259259,15.354560185185186,56,36,32,10,69,7,7,0,6,6,26,67,1169,free,41.611111111111114,32.47222222222222,1,0.27,0,FN,0.15299999999999997
+349,11,258,37.001793981481484,23.757094907407406,10,10,13,2,22,1,4,1,0,0,7,18,258,free,31.727272727272727,23.454545454545453,1,0.32666666666666666,0,FN,0.09633333333333333

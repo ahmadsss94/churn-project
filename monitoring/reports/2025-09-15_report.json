@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-09-15 09:05:21",
+  "n_batch": 57,
+  "psi_score": 1.833691106397222,
+  "status": "ACTION",
+  "pr_auc": 0.9405743828820752,
+  "baseline_pr_auc": 0.940574382882075,
+  "pr_auc_drop_ratio": -2.3607341318891764e-16,
+  "psi_warn": 0.1,
+  "psi_action": 0.2,
+  "drop_threshold": 0.2,
+  "psi_bins": 10
+}

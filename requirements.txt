@@ -1,0 +1,8 @@
+pandas
+numpy
+joblib
+fastapi
+uvicorn
+mlflow
+scipy
+scikit-learn==1.5.1
