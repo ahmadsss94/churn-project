@@ -1,5 +1,3 @@
-```
-@'
 # Customer Churn Prediction (Music Streaming, Subscription Model)
 
 A production-minded, end-to-end pipeline to predict customer churn from user event logs.
